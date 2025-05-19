@@ -1,3 +1,5 @@
+Read the flowchart from the code page!!!!!!
+
 This project is a game of guessing numbers. 
 Flow chart of game:
          Game start
